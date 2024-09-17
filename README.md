@@ -20,3 +20,9 @@ This is an active repository, you can watch for following the latest advances. I
 6. <span id = "16001">[MaskClustering] [MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation](https://arxiv.org/pdf/2401.07745), `CVPR2024`. [[Code](https://github.com/PKU-EPIC/MaskClustering)
 7. <span id = "16001">[LEGaussians] [LEGaussians: Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding](https://arxiv.org/pdf/2311.18482.pdf), `CVPR2024`. [[Code](https://github.com/buaavrcg/LEGaussians)
 
+
+## Contributing
+
+your contributions are always welcome!
+
+I will keep some pull requests open if I'm not sure if they are awesome for 3D Instance Segmentation, you could vote for them by adding 👍 to them.
