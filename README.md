@@ -1,6 +1,11 @@
-# Awesome-3D-Instance-Segmentation  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Papers and codes for 3D Instance Segmentation. 😎 Please pull requests if you want to recommend papers.   
+# Awesome-3D-Instance-Segmentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)  <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=activevisionlab.llm3d&left_color=gray&right_color=blue"> </a> [![arXiv](https://img.shields.io/badge/arXiv-2405.10255-b31b1b.svg)](https://arxiv.org/abs/2405.10255)
+
+## 🏠 About
+Papers and codes for 3D Instance Segmentation. 😎 
+
+This is an active repository, you can watch for following the latest advances. If you find it useful, please kindly star this repo.
+
 
 ### Closed-Vocabulary 3D Segmentation
 
